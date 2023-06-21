@@ -97,7 +97,7 @@ color: white;
     background: #404BBF;
     
     }
-.texth3 {
+.texth {
     font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 20px;
@@ -128,7 +128,6 @@ font-family: 'Raleway', sans-serif;
 line-height: 1.17;
 font-weight: 800;
 font-size: 18px;
-line-height: 21px;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -176,14 +175,13 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .hworks {
-    font-family: 'Roboto',sans-serif;
-    line-height: 1.11;
+font-family: 'Roboto',sans-serif;
 text-align: center;
 font-weight: 700;
 font-size: 36px;
-line-height: 40px;
 color: #2E2F42;
 text-transform: capitalize;
+line-height: 1.11;
 }
 
 .team{
@@ -194,7 +192,6 @@ text-transform: capitalize;
     line-height: 1.11;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
     color: #2E2F42;
     text-align: center ;
     letter-spacing: 0.02em;
