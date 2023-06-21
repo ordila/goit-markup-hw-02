@@ -1,0 +1,148 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+}
+.navigation_item {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+
+}
+.navigation_item:active{
+    color: #404BBF;
+    text-decoration: underline;
+    }
+
+.adress_item{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #434455;
+letter-spacing: 0.02em;
+}
+.adress_item:active{
+    color: #404BBF;
+
+}
+
+.button_filtr{
+font-family: 'Roboto';
+color: #4D5AE5;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+background: #F4F4FD;
+border: 1px solid #E7E9FC;
+}
+.button_filtr:active{
+background: #404BBF;
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+color: white;
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.photo_item p{
+    font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+footer{
+    background-color: #2E2F42;;
+}
+.footer_p{
+ font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
+.logo_footer{
+    font-family: 'Raleway';
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;
+}
+
+/*   
+first page
+*/
+.btn_order{
+    font-family: 'Roboto';
+font-weight: 500;
+font-size: 16px;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+.btn_order:hover{
+    background: #404BBF;
+}
+.title{
+    background:#2E2F42;
+    font-family: 'Roboto';
+
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+.features p {
+    font-family: 'Roboto';
+
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.works h2 {
+    font-family: 'Roboto';
+
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+color: #2E2F42;
+text-transform: capitalize;
+}
+.team h2 {
+    font-family: 'Roboto';
+   
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;
+}
+.workers p { 
+font-family: 'Roboto';
+
+
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
