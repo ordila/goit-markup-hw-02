@@ -17,24 +17,24 @@ body{
  .link {
         text-decoration: none;
     }
-    .list{
+.list{
         list-style: none;
     }
-    .navigation_item{
+.navigation_item{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42 ;
     }
-    .navigation_item:hover{
+.navigation_item:hover{
         color: #404bbf;
     }
-    .navigation_item:focus{
+.navigation_item:focus{
         color: #404bbf;
     }
 
-    .adress_general{
+.adress_general{
         font-style: normal;
     }
 
