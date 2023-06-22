@@ -87,7 +87,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 background: #F4F4FD;
-letter-spacing: 0.04em 
+letter-spacing: 0.04em ;
 cursor : pointer;
 }
 .button_filtr:hover{
@@ -147,7 +147,7 @@ font-size: 16px;
 letter-spacing: 0.04em;
 color: #FFFFFF;
 background: #4D5AE5;
-border-radius: 4px;
+
 cursor:pointer;
 }
 .btn_order:hover{
